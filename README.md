@@ -16,6 +16,8 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 * [Geeks For Geeks - Data Structures](http://www.geeksforgeeks.org/data-structures/)
 * [Learning Path](http://makemeflow.org/advice/2016/07/a-comprehensive-learning-path-recommended-by-google/)
 * [Facebook CodeLab](https://codelab.interviewbit.com/)
+* [Google CodeLab](https://codelabs.developers.google.com/)
+* [Interview Bit](https://www.interviewbit.com/dashboard/)
 
 #### Machine Learning
 - [ ] [Common Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
