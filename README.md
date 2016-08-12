@@ -1,4 +1,4 @@
-# Interesting-Reads
+# Interesting-Posts-And-Tutorials
 A list comprising of links to interesting articles and blog posts on different programming concepts.
 
 Note: Useful Websites have links to posts on them, whilst the rest are direct links to posts.
