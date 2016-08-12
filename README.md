@@ -4,17 +4,18 @@ A list comprising of links to interesting articles and blog posts on different p
 Note: Useful Websites have links to posts on them, whilst the rest are direct links to posts.
 
 #### Tutorial Websites
-- [X] [TheNewBoston](https://thenewboston.com/)
-- [X] [Udacity](https://www.udacity.com/)
-- [ ] [Coursera](https://www.coursera.org/)
-- [X] [Codecademy](https://www.codecademy.com/)
-- [ ] [IDeserve - Algorithms](http://www.ideserve.co.in/)
+* [TheNewBoston](https://thenewboston.com/)
+* [Udacity](https://www.udacity.com/)
+* [Coursera](https://www.coursera.org/)
+* [Codecademy](https://www.codecademy.com/)
+* [IDeserve - Algorithms](http://www.ideserve.co.in/)
 
 #### Useful Websites
-- [X] [StackOverFlow](https://www.stackoverflow.com/)
-- [ ] [Big-O Cheatsheet](http://bigocheatsheet.com/)
-- [ ] [Geeks For Geeks - Data Structures](http://www.geeksforgeeks.org/data-structures/)
-- [ ] [Learning Path](http://makemeflow.org/advice/2016/07/a-comprehensive-learning-path-recommended-by-google/)
+* [StackOverFlow](https://www.stackoverflow.com/)
+* [Big-O Cheatsheet](http://bigocheatsheet.com/)
+* [Geeks For Geeks - Data Structures](http://www.geeksforgeeks.org/data-structures/)
+* [Learning Path](http://makemeflow.org/advice/2016/07/a-comprehensive-learning-path-recommended-by-google/)
+* [Facebook CodeLab](https://codelab.interviewbit.com/)
 
 #### Machine Learning
 - [ ] [Common Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
