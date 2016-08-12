@@ -7,6 +7,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 - [ ] [IDeserve - Algorithms](http://www.ideserve.co.in/)
 - [ ] [Big-O Cheatsheet](http://bigocheatsheet.com/)
 - [ ] [Geeks For Geeks - Data Structures](http://www.geeksforgeeks.org/data-structures/)
+- [ ] [Learning Path](http://makemeflow.org/advice/2016/07/a-comprehensive-learning-path-recommended-by-google/)
 
 #### Machine Learning
 - [ ] [Common Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
