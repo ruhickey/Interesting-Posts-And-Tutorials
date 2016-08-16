@@ -34,6 +34,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 #### JavaScript
 - [X] [MSDN - Managing Event Listeners](https://msdn.microsoft.com/en-us/library/dn741342(v=vs.94).aspx)
 - [X] [MSDN - Using the Bind Method](https://msdn.microsoft.com/en-us/library/dn569317(v=vs.94).aspx)
+- [X] [Module Pattern](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
 - [ ] [Implementing Memoization](https://www.sitepoint.com/implementing-memoization-in-javascript/)
 - [ ] [Memoization to Speed up Performance](http://requiremind.com/memoization-speed-up-your-javascript-performance/)
 - [ ] [Faster Memoization for Improved Performance](https://addyosmani.com/blog/faster-javascript-memoization/)
