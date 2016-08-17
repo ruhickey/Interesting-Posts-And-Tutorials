@@ -28,7 +28,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [ ] [Top 15 Data Structure and Algorithm Interview Questions](https://javarevisited.blogspot.com/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
 - [ ] [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms/)
-- [ ] [Beginners Guide to Big-O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+- [X] [Beginners Guide to Big-O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 - [ ] [Asymptotic Notation](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
 
 #### JavaScript
