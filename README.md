@@ -44,3 +44,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 
 #### Debian
 - [X] [Packaging a .deb file](https://wiki.debian.org/Packaging/Intro?action=show&redirect=IntroDebianPackaging#Introduction_to_Debian_Packaging)
+
+
+#### Ruby on Rails
+- [ ] [Deploying a Rails app with Passenger and Apache on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-apache-on-ubuntu-14-04)
