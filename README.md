@@ -46,6 +46,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 
 #### Debian
 - [X] [Packaging a .deb file](https://wiki.debian.org/Packaging/Intro?action=show&redirect=IntroDebianPackaging#Introduction_to_Debian_Packaging)
+- [X] [Packaging Applications for Debian ](http://blog.noizeramp.com/2005/08/31/packaging-java-applications-for-ubuntu-and-other-debians/)
 
 
 #### Ruby on Rails
