@@ -11,6 +11,14 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 * [IDeserve - Algorithms](http://www.ideserve.co.in/)
 * [KhanAcademy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
+#### YouTube Channels
+* [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+* [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+* [Android Developers](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg)
+* [Google Design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA)
+* [The Ben Heck Show](https://www.youtube.com/user/thebenheckshow)
+* [Hak5](https://www.youtube.com/user/Hak5Darren)
+
 #### Useful Websites
 * [StackOverFlow](https://www.stackoverflow.com/)
 * [Big-O Cheatsheet](http://bigocheatsheet.com/)
