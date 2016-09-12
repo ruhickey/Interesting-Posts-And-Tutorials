@@ -32,7 +32,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 
 #### Machine Learning
 - [ ] [Common Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
-- [ ] [Tensor Flow - Tutorials](https://www.tensorflow.org/versions/r0.10/tutorials/index.html)
+- [ ] [Tensor Flow - Tutorials](https://www.tensorflow.org/versions/r0.10/tutorials/index.html) :book:
 
 #### Algorithms and Data Structures
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
