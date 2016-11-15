@@ -35,6 +35,9 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 - [ ] [Tensor Flow - Tutorials](https://www.tensorflow.org/versions/r0.10/tutorials/index.html)
 - [ ] [Self Study ML Projects](http://machinelearningmastery.com/self-study-machine-learning-projects/)
 
+#### Neural Networks
+- [ ] [Implementing a neural network from scratch - Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+
 #### Algorithms and Data Structures
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [ ] [Top 15 Data Structure and Algorithm Interview Questions](https://javarevisited.blogspot.com/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
