@@ -29,6 +29,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 * [Interview Bit](https://www.interviewbit.com/dashboard/)
 * [Project Euler](https://projecteuler.net/)
 * [LeetCode] (https://leetcode.com/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 #### Machine Learning
 - [ ] [Common Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
@@ -37,7 +38,6 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 
 #### Neural Networks
 - [ ] [Implementing a neural network from scratch - Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
-- [ ] [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 #### Algorithms and Data Structures
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
