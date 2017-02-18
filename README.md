@@ -30,6 +30,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 * [Project Euler](https://projecteuler.net/)
 * [LeetCode] (https://leetcode.com/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Eternally Confused](http://eternallyconfuzzled.com)
 
 #### Machine Learning
 - [ ] [Common Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
