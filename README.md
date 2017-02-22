@@ -39,18 +39,19 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 
 #### Neural Networks
 - [ ] [Implementing a neural network from scratch - Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+- [ ] [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 #### Algorithms and Data Structures
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [ ] [Top 15 Data Structure and Algorithm Interview Questions](https://javarevisited.blogspot.com/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
 - [ ] [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms/)
-- [X] [Beginners Guide to Big-O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
-- [X] [Asymptotic Notation](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
+- [ ] [Beginners Guide to Big-O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+- [ ] [Asymptotic Notation](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
 
 #### JavaScript
-- [X] [MSDN - Managing Event Listeners](https://msdn.microsoft.com/en-us/library/dn741342(v=vs.94).aspx)
-- [X] [MSDN - Using the Bind Method](https://msdn.microsoft.com/en-us/library/dn569317(v=vs.94).aspx)
-- [X] [Module Pattern](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+- [ ] [MSDN - Managing Event Listeners](https://msdn.microsoft.com/en-us/library/dn741342(v=vs.94).aspx)
+- [ ] [MSDN - Using the Bind Method](https://msdn.microsoft.com/en-us/library/dn569317(v=vs.94).aspx)
+- [ ] [Module Pattern](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
 - [ ] [Implementing Memoization](https://www.sitepoint.com/implementing-memoization-in-javascript/)
 - [ ] [Memoization to Speed up Performance](http://requiremind.com/memoization-speed-up-your-javascript-performance/)
 - [ ] [Faster Memoization for Improved Performance](https://addyosmani.com/blog/faster-javascript-memoization/)
@@ -59,9 +60,15 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 - [ ] [MSDN - Multicast and Broadcast](https://msdn.microsoft.com/en-us/library/system.net.sockets.multicastoption%28v=vs.110%29.aspx)
 
 #### Debian
-- [X] [Packaging a .deb file](https://wiki.debian.org/Packaging/Intro?action=show&redirect=IntroDebianPackaging#Introduction_to_Debian_Packaging)
-- [X] [Packaging Applications for Debian ](http://blog.noizeramp.com/2005/08/31/packaging-java-applications-for-ubuntu-and-other-debians/)
-
+- [ ] [Packaging a .deb file](https://wiki.debian.org/Packaging/Intro?action=show&redirect=IntroDebianPackaging#Introduction_to_Debian_Packaging)
+- [ ] [Packaging Applications for Debian ](http://blog.noizeramp.com/2005/08/31/packaging-java-applications-for-ubuntu-and-other-debians/)
 
 #### Ruby on Rails
 - [ ] [Deploying a Rails app with Passenger and Apache on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-apache-on-ubuntu-14-04)
+
+#### StackOverFlow - Favorite Questions and Answers
+- [ ] [Ruby - Difference between exec, system, %x() and backticks](http://stackoverflow.com/questions/6338908/ruby-difference-between-exec-system-and-x-or-backticks)
+- [ ] [JSON - Standard API formats](http://stackoverflow.com/questions/12806386/standard-json-api-response-format)
+- [ ] [Branch Prediction - Why is a sorted array processed quicker than an unsorted array](http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array)
+- [ ] [Generators - The Python yield keyword](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
+- [ ] [C - fork vs exec](http://stackoverflow.com/questions/1653340/differences-between-fork-and-exec)
