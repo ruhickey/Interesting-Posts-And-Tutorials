@@ -10,6 +10,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 * [Codecademy](https://www.codecademy.com/)
 * [IDeserve - Algorithms](http://www.ideserve.co.in/)
 * [KhanAcademy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+* [Scotch IO](https://scotch.io/tutorials)
 
 #### YouTube Channels
 * [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
