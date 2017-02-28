@@ -59,6 +59,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 
 #### Networking
 - [ ] [MSDN - Multicast and Broadcast](https://msdn.microsoft.com/en-us/library/system.net.sockets.multicastoption%28v=vs.110%29.aspx)
+- [ ] [Understanding TCP/IP Addressing and Subnetting Basics](https://support.microsoft.com/en-us/help/164015/understanding-tcp-ip-addressing-and-subnetting-basics)
 
 #### Debian
 - [ ] [Packaging a .deb file](https://wiki.debian.org/Packaging/Intro?action=show&redirect=IntroDebianPackaging#Introduction_to_Debian_Packaging)
