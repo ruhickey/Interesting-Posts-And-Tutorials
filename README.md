@@ -74,3 +74,6 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 - [ ] [Branch Prediction - Why is a sorted array processed quicker than an unsorted array](http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array)
 - [ ] [Generators - The Python yield keyword](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
 - [ ] [C - fork vs exec](http://stackoverflow.com/questions/1653340/differences-between-fork-and-exec)
+
+#### StackExchange - Maths
+- [ ] [Calculating a Point that lies on an Ellipse given an Angle](http://math.stackexchange.com/questions/22064/calculating-a-point-that-lies-on-an-ellipse-given-an-angle)
