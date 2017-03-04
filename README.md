@@ -75,3 +75,6 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 - [ ] [Generators - The Python yield keyword](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
 - [ ] [C - fork vs exec](http://stackoverflow.com/questions/1653340/differences-between-fork-and-exec)
 - [ ] [Calculating a Point that lies on an Ellipse given an Angle](http://stackoverflow.com/questions/9411861/how-do-i-calculate-a-point-on-a-ellipse-s-circumference)
+
+#### StackExchange - Unix
+- [ ] [What the 'shutdown' command actually does](http://unix.stackexchange.com/a/64385/218814)
