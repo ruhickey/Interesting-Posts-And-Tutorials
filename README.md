@@ -38,6 +38,9 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 - [ ] [Tensor Flow - Tutorials](https://www.tensorflow.org/versions/r0.10/tutorials/index.html)
 - [ ] [Self Study ML Projects](http://machinelearningmastery.com/self-study-machine-learning-projects/)
 
+#### Image Processing
+- [ ] [OpenCV - Thresholding](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html#thresholding)
+
 #### Neural Networks
 - [ ] [Implementing a neural network from scratch - Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 - [ ] [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
