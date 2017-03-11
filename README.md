@@ -37,6 +37,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 - [ ] [Common Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 - [ ] [Tensor Flow - Tutorials](https://www.tensorflow.org/versions/r0.10/tutorials/index.html)
 - [ ] [Self Study ML Projects](http://machinelearningmastery.com/self-study-machine-learning-projects/)
+- [ ] [Adversarial Example Research](https://openai.com/blog/adversarial-example-research/)
 
 #### Image Processing
 - [ ] [OpenCV - Thresholding](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html#thresholding)
