@@ -33,6 +33,9 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Eternally Confused](http://eternallyconfuzzled.com)
 
+#### Linux Kernel
+- [ ] [Linux Device Drivers - 3rd Edition](https://lwn.net/Kernel/LDD3/)
+
 #### Machine Learning
 - [ ] [Common Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 - [ ] [Tensor Flow - Tutorials](https://www.tensorflow.org/versions/r0.10/tutorials/index.html)
