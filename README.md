@@ -29,7 +29,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 * [Google CodeLab](https://codelabs.developers.google.com/)
 * [Interview Bit](https://www.interviewbit.com/dashboard/)
 * [Project Euler](https://projecteuler.net/)
-* [LeetCode] (https://leetcode.com/)
+* [LeetCode](https://leetcode.com/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Eternally Confused](http://eternallyconfuzzled.com)
 
