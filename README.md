@@ -74,6 +74,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 
 #### Ruby on Rails
 - [ ] [Deploying a Rails app with Passenger and Apache on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-apache-on-ubuntu-14-04)
+- [ ] [Simple upstart configuration to start a Rails application - Using RVM](https://gist.github.com/Dobflem/a0be8509684432c8e8a79aa42714d09e)
 
 #### StackOverFlow - Favorite Questions and Answers
 - [ ] [Ruby - Difference between exec, system, %x() and backticks](http://stackoverflow.com/questions/6338908/ruby-difference-between-exec-system-and-x-or-backticks)
