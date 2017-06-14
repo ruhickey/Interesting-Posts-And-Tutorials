@@ -76,7 +76,7 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 - [ ] [Deploying a Rails app with Passenger and Apache on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-passenger-and-apache-on-ubuntu-14-04)
 - [ ] [Simple upstart configuration to start a Rails application - Using RVM](https://gist.github.com/Dobflem/a0be8509684432c8e8a79aa42714d09e)
 
-#### StackOverFlow - Favorite Questions and Answers
+#### StackOverFlow - Favourite Questions and Answers
 - [ ] [Ruby - Difference between exec, system, %x() and backticks](http://stackoverflow.com/questions/6338908/ruby-difference-between-exec-system-and-x-or-backticks)
 - [ ] [JSON - Standard API formats](http://stackoverflow.com/questions/12806386/standard-json-api-response-format)
 - [ ] [Branch Prediction - Why is a sorted array processed quicker than an unsorted array](http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array)
@@ -84,5 +84,12 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 - [ ] [C - fork vs exec](http://stackoverflow.com/questions/1653340/differences-between-fork-and-exec)
 - [ ] [Calculating a Point that lies on an Ellipse given an Angle](http://stackoverflow.com/questions/9411861/how-do-i-calculate-a-point-on-a-ellipse-s-circumference)
 
+#### StackOverFlow - Favourite Users (Great Answers)
+- [ ] [Alexander Yee](https://stackoverflow.com/users/922184/mysticial)
+- [ ] [Jon Skeet](https://stackoverflow.com/users/22656/jon-skeet)
+
 #### StackExchange - Unix
 - [ ] [What the 'shutdown' command actually does](http://unix.stackexchange.com/a/64385/218814)
+
+#### Computer Science
+- [ ] [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
