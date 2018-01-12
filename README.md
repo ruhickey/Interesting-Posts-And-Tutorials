@@ -35,6 +35,8 @@ Note: Useful Websites have links to posts on them, whilst the rest are direct li
 
 #### Linux Kernel
 - [ ] [Linux Device Drivers - 3rd Edition](https://lwn.net/Kernel/LDD3/)
+- [ ] [LKM - A Char Device](http://derekmolloy.ie/writing-a-linux-kernel-module-part-2-a-character-device/)
+- [ ] [Writing a Basic Framebuffer](http://opensourceforu.com/2015/05/writing-a-basic-framebuffer-driver/)
 
 #### Machine Learning
 - [ ] [Common Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
